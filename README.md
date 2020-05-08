@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
 </head>
 <body>
 	<h1>10443003 today is 05/08</h1>
